@@ -1,13 +1,18 @@
-<p align="center"> <img src="(https://github.com/user-attachments/assets/9bea155f-3d06-4484-8048-308c4aa67105)" alt="landpage monibank"> </p>
+![inicio_monibank](https://github.com/user-attachments/assets/b62b146d-333a-41c7-973f-9285154cd48e)   
 <hr>
 <p> Abra sua conta no MoniBank </p>
-<p align="center"> <img src="img/imagens.readme/cadastro_monibank.png" alt="cadastro monibank"></p>
+
+![cadastro_monibank](https://github.com/user-attachments/assets/e74e5a25-8ca7-4004-a5cd-8dd169b4c07d)
 <hr>
 <p> Tenha mais segurança ao criar sua conta com reconhecimeto facial </p>
-<p align="center"> <img src="img/imagens.readme/captura-de-tala_monibank.jpeg" alt="reconhecimento facial monibank"></p>
+
+![captura-de-tala_monibank](https://github.com/user-attachments/assets/eb5fde57-9367-4f10-91eb-aa1c1dbeeb3d)
+
 <hr>
 <p> Use sua conta imediatamente após criada </p>
-<p align="center"> <img src="img/imagens.readme/resultado_monibank_.png" alt="conta monibank criada"></p>
+
+![resultado_monibank_](https://github.com/user-attachments/assets/cab10ba4-f711-4cab-a68b-881703d58c38)
+
 
 <hr>
 
@@ -15,5 +20,8 @@
 * JavaScript
 * HTML
 * CSS
+
+
+
 
 
