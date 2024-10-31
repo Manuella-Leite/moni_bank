@@ -1,4 +1,4 @@
-![inicio_monibank](https://github.com/user-attachments/assets/b62b146d-333a-41c7-973f-9285154cd48e)   
+![landpage_monibank](https://github.com/user-attachments/assets/b62b146d-333a-41c7-973f-9285154cd48e)   
 <hr>
 <p> Abra sua conta no MoniBank </p>
 
@@ -6,7 +6,7 @@
 <hr>
 <p> Tenha mais segurança ao criar sua conta com reconhecimeto facial </p>
 
-![captura-de-tala_monibank](https://github.com/user-attachments/assets/eb5fde57-9367-4f10-91eb-aa1c1dbeeb3d)
+![reconhecimemto facial_monibank](https://github.com/user-attachments/assets/eb5fde57-9367-4f10-91eb-aa1c1dbeeb3d)
 
 <hr>
 <p> Use sua conta imediatamente após criada </p>
